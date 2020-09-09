@@ -14,6 +14,7 @@ function App() {
   }, []);
   return (
     <main>
+      <h1>Yo it so fucking cool. love it man. so easy to deploy and that for free.</h1>
       <h1>Create React App + Go API</h1>
       <h2>
         Deployed with{' '}
